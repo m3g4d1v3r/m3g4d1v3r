@@ -30,5 +30,5 @@ I would really like to work on projects involving:
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3g4d1v3r&layout=compact&langs_count=8&theme=synthwave"/>
 <br/>
 <br/>
-<img height="130em" src="https://badge42.herokuapp.com/api/stats/msubtil-?darkmode=true&cursus=C%20Piscine"/>
+<img height="130em" src="https://badge42.herokuapp.com/api/stats/msubtil-?darkmode=true&cursus=Basecamp"/>
 <div>
