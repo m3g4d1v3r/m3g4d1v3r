@@ -27,8 +27,9 @@ I would really like to work on projects involving:
 4. Cybersecurity
 
 <div>
+<!--
 <img height="130em" src="https://badge42.herokuapp.com/api/stats/msubtil-?darkmode=true&cursus=Basecamp"/>
 <br/>
-<br/>
+<br/>-->
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3g4d1v3r&layout=compact&langs_count=8&theme=synthwave"/>
 <div>
