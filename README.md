@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 My name is Marlon
 <!--
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - I’m currently learning Rust, Advanced C and Assembly
-- I’m looking to collaborate on C projects//
+- I’m looking to collaborate on C projects
+
 
 <div>
 <!--
