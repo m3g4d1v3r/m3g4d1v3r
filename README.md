@@ -16,15 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning C and Shell
-- 👯 I’m looking to collaborate on C projects
-
-I would really like to work on projects involving:
-
-1. Audio engineering (with firmware and/or analog)
-2. Operating systems
-3. Biological computing
-4. Cybersecurity
+- I’m currently learning Rust, Advanced C and Assembly
+- I’m looking to collaborate on C projects//
 
 <div>
 <!--
