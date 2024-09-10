@@ -9,7 +9,7 @@ Here are the things I'm currently looking for:
 - Learn Rust, Advanced C and Assembly
 - Collaborate on challenging projects here on github
 
-I hope to make more commits and connections in the near future here on Github.
+I hope to make more commits and connections in the near future here.
 
 <div>
 <!--
