@@ -1,24 +1,15 @@
-### Hi there!
+### Salut!
 
-My name is Marlon
-<!--
-**m3g4d1v3r/m3g4d1v3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marlon. I've adopted the m3g4d1v3r handle because of two things:
+- I like to go deep into problems, find the root causes and fix them
+- My first videogame was a megadrive (a.k.a. Sega Genesis)
 
-Here are some ideas to get you started:
+Please, feel free to get into contact with me if you want to know more about my trajectory and my professional profile.
+Here are the things I'm currently looking for:
+- Learn Rust, Advanced C and Assembly
+- Collaborate on challenging projects here on github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- I’m currently learning Rust, Advanced C and Assembly
-- I’m looking to collaborate on C projects
-
+I hope to make more commits and connections in the near future here on Github.
 
 <div>
 <!--
