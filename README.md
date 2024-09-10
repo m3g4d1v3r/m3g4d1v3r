@@ -2,7 +2,7 @@
 
 My name is Marlon. I've adopted the m3g4d1v3r handle because of two things:
 - I like to go deep into problems, find the root causes and fix them
-- My first videogame was a megadrive (a.k.a. Sega Genesis)
+- My first videogame ever was a Mega Drive (a.k.a. Sega Genesis)
 
 Please, feel free to get into contact with me if you want to know more about my trajectory and my professional profile.
 Here are the things I'm currently looking for:
