@@ -24,10 +24,6 @@ I hope to make more commits and connections here in the near future.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m3g4d1v3r&layout=compact&theme=aura&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m3g4d1v3r&theme=aura&hide_border=true)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=m3g4d1v3r&theme=onestar&no-frame=true&margin-w=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1)
-[![Hacktoberfest Badges](https://holopin.me/m3g4d1v3r?achievements=true&achievements_count=1)](https://holopin.io/@m3g4d1v3r)
-
 ## 📋 Pinned Repositories
 [![42-Basecamp](https://github-readme-stats.vercel.app/api/pin/?username=m3g4d1v3r&repo=42-Basecamp&theme=aura&hide_border=true)](https://github.com/m3g4d1v3r/42-Basecamp)
 [![hashtable_ansi_c](https://github-readme-stats.vercel.app/api/pin/?username=m3g4d1v3r&repo=hashtable_ansi_c&theme=aura&hide_border=true)](https://github.com/m3g4d1v3r/hashtable_ansi_c)
